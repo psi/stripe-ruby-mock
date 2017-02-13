@@ -61,6 +61,7 @@ module StripeMock
       @invoice_items = {}
       @orders = {}
       @plans = {}
+      @products = {}
       @recipients = {}
       @refunds = {}
       @transfers = {}
